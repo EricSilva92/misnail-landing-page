@@ -1,13 +1,14 @@
 
 TITLE: 
-Girly - 100% Fully Responsive One Page HTML5 Bootstrap 4 Template
+Instant Hair - O alongamento dos seus sonhos
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+AUTHOR: Eric Silva
+DESIGNED & DEVELOPED by Market Host
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://markethost.com.br/
+Instagram: http://instagram.com/markethost
+Twitter: http://twitter.com/markethost
+Facebook: http://facebook.com/markethost
 
 
 CREDITS:
